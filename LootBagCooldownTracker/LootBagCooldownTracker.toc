@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: LootBag Cooldown Tracker
+## Author: Andale / Ses / Denied
+## Version: 1.0
+LootBagCooldownTracker.lua
