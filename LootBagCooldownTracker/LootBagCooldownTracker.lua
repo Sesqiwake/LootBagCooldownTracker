@@ -24,7 +24,7 @@ killImageFrame:SetSize(32, 32)
 killImageFrame:SetPoint("CENTER", UIParent, "CENTER", 0, -50)
 killImageFrame.texture = killImageFrame:CreateTexture(nil, "BACKGROUND")
 killImageFrame.texture:SetAllPoints(killImageFrame)
-killImageFrame.texture:SetTexture("Interface\\AddOns\\MyGoldAddon\\inv_misc_bag_felclothbag.tga")
+killImageFrame.texture:SetTexture("Interface\\AddOns\\LootBagCooldownTracker\\inv_misc_bag_felclothbag.tga")
 killImageFrame:Hide()
 
 
